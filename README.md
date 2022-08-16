@@ -2,7 +2,7 @@
 
 # Sobre o desafio
 
-O desafio é composto por três etapas:
+O desafio é composto por duas etapas:
 
 A primeira etapa tem como objetivo avaliar a forma como é realizado o planejamento de casos de testes, estratégias de testes, análise e modelagem dos  cenários de teste. O fluxo a ser considerado nesta etapa são fluxos de Extrato, Saldo e Transferência Interna através da nossa API Pública.
 
