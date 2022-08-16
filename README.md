@@ -109,7 +109,7 @@ Nessa etapa sua missão é automatizar os testes que foram planejados na etapa a
 
 ## Envio do desafio
 
-Você deve disponibilizar seu código no Github e manter o repositório como privado. Quando finalizar, favor entrar em contato com a sua recrutadora, para disponibilizarmos os usuários que deverão possuir acesso para realizar a avaliação.
+Você deve disponibilizar seu projeto no Github e manter o repositório como privado. Quando finalizar, favor entrar em contato com a sua recrutadora, para disponibilizarmos os usuários que deverão possuir acesso para realizar a avaliação.
 
 O repositório deve ser facilmente executável! E lembre-se, a organização e o nível de detalhamento da entrega serão cruciais nesta avaliação!
 
