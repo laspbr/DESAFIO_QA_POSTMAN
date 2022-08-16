@@ -78,10 +78,11 @@ Seu desafio nessa etapa é criar um planejamento dos casos de testes que você j
 ### Critérios de Avaliação
 
  Levaremos em conta os seguintes fatores:
- 
-    - Qualidade dos cenários de testes;
-    - Cobertura do fluxo;
-    - Detalhamento e Organização.
+
+   - Qualidade dos cenários de testes;
+   - Cobertura do fluxo;
+   - Detalhamento e Organização.
+
 
 ## 2. Testes de API via Postman
 
