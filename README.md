@@ -4,9 +4,10 @@
 
 O desafio é composto por três etapas:
 
-A primeira etapa tem como objetivo avaliar a forma como é realizado o planejamento de casos de testes. O fluxo a ser considerado nesta etapa é o fluxo de Abertura de Conta de um app da empresa Start.
+A primeira etapa tem como objetivo avaliar a forma como é realizado o planejamento de casos de testes, estratégias de testes, análise e modelagem dos  cenários de teste. O fluxo a ser considerado nesta etapa são fluxos de Extrato, Saldo e Transferência Interna através da nossa API Pública.
 
-A segunda etapa tem como finalidade avaliar a automatização dos testes nos fluxos de Extrato, Saldo e Transferência Interna através da nossa API Pública.
+A segunda etapa tem como finalidade avaliar os testes nos fluxos de Extrato, Saldo e Transferência Interna através do Postman.
+
 
 ### Instruções iniciais
 
